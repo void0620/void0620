@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">
-  👋Hi, I'm Full Stack Developer.
+  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+  Hi, I'm Full Stack Developer.
 </h1>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
