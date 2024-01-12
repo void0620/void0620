@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  Hi, I'm Full Stack Developer.
+  I'm Full Stack Developer.
 </h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"  /></p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
