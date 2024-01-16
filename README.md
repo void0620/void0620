@@ -11,12 +11,12 @@
 <p align=center>
   <div align=center>
     <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0620&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"  />
+    <img height="200" align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
   </div>
   <br>
   <div align=center>
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width="50%" src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
 
@@ -48,7 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=gotham" alt="void0620" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
