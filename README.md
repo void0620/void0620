@@ -8,19 +8,7 @@
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=void0620.void0620">
 <br>
-<p align=center>
-  <!-- <div align=center>
-    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0620&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    <img width="45%" align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-  </div> -->
-  <div align=center>
-    <img align="left" width="50%" src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" style="padding:0px"/>
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void0620&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<img width="90%" align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -46,6 +34,27 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0620&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void0620&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
