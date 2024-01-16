@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   I'm Full Stack Developer.
 </h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=void0620.void0620">
 <br>
 <p align=center>
   <div align=center>
@@ -15,8 +15,8 @@
   </div>
   <br>
   <div align=center>
-    <img align="left" width="50%" src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width="48%" src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
+    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
 
