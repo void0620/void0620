@@ -15,7 +15,7 @@
   </div> -->
   <div align=center>
     <img align="left" width="50%" src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
 
