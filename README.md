@@ -6,25 +6,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   I'm Full Stack Developer.
 </h1>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=void0620.void0620)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0620&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"  />
+    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0620&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"  />
   </div>
   <br>
+  <div align=center>
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=void0620&theme=react&border=61dafb&hide_border=true" alt="void0620" />
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=void0620&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=void0620&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
