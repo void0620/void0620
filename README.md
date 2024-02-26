@@ -8,7 +8,6 @@
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=void0620.void0620">
 <br>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%"/></p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
